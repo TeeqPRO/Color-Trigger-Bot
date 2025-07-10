@@ -1,0 +1,10 @@
+{
+    "name": "PixelTrigger Pro",
+    "version": "2.0.0",
+    "description": "Advanced Pixel Monitoring System",
+    "author": "TeeqPRO",
+    "repository": "https://github.com/TeeqPRO/PixelTrigger-PRO",
+    "license": "MIT",
+    "python_requires": ">=3.7",
+    "release_date": "2025-01-10"
+}
