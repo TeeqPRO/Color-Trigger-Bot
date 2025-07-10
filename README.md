@@ -284,4 +284,4 @@ This project is provided as-is for educational and personal use.
 
 **Star ⭐ this repository if you find it useful!**
 
-Made with ❤️ by [TeeqPRO](https://github.com/TeeqPRO)
+Made by [TeeqPRO](https://github.com/TeeqPRO)
